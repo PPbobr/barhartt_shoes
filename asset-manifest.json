@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PPbobr/barhartt_shoes/static/css/main.97188e74.css",
+    "main.js": "/PPbobr/barhartt_shoes/static/js/main.d8c01069.js",
+    "static/js/496.33d96184.chunk.js": "/PPbobr/barhartt_shoes/static/js/496.33d96184.chunk.js",
+    "static/media/mummy.jpg": "/PPbobr/barhartt_shoes/static/media/mummy.7c97dae9b416067a2f6f.jpg",
+    "index.html": "/PPbobr/barhartt_shoes/index.html",
+    "main.97188e74.css.map": "/PPbobr/barhartt_shoes/static/css/main.97188e74.css.map",
+    "main.d8c01069.js.map": "/PPbobr/barhartt_shoes/static/js/main.d8c01069.js.map",
+    "496.33d96184.chunk.js.map": "/PPbobr/barhartt_shoes/static/js/496.33d96184.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97188e74.css",
+    "static/js/main.d8c01069.js"
+  ]
+}
